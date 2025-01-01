@@ -60,6 +60,8 @@ console.log(specificDate); // 2025-01-01T12:00:00.000Z
 ---
 
 ## Основные методы `Date`
+![image](https://github.com/user-attachments/assets/35e77776-a9e6-4db3-af75-4f99cb0a4703)
+
 
 ### Получение компонентов даты и времени
 ```javascript
