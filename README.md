@@ -92,6 +92,7 @@ date.setDate(25);
 
 console.log(date); // Обновленная дата
 ```
+![image](https://github.com/user-attachments/assets/7188ec45-8e83-47ba-b413-cda9988fc208)
 
 ### Форматирование даты
 ```javascript
