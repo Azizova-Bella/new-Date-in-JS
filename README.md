@@ -8,8 +8,6 @@
 ---
 
 ## Содержание
-![Alt Text](https://www.ifixproblem.com/wp-content/uploads/2023/02/Digital-Clock-using-JavaScript.gif)
-
 1. [Создание объекта `Date`](#создание-объекта-date)
    - [Текущая дата и время](#1-текущая-дата-и-время)
    - [Из временной метки](#2-из-временной-метки)
