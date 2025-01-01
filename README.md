@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/ea605850-6aea-4b00-b8db-7f25d1b404b6)
 
 # Объект `Date` в JavaScript
 ![image](https://github.com/user-attachments/assets/41fd3e19-5aac-40d5-a11d-6ff84835687d)
