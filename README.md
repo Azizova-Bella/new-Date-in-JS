@@ -8,7 +8,8 @@
 ---
 
 ## Содержание
-![image](https://github.com/user-attachments/assets/2a704fd1-4951-4374-933b-6ebb20ce07e9)
+![image]([https://github.com/user-attachments/assets/2a704fd1-4951-4374-933b-6ebb20ce07e9](https://www.ifixproblem.com/wp-content/uploads/2023/02/Digital-Clock-using-JavaScript.gif))
+![image]()
 
 1. [Создание объекта `Date`](#создание-объекта-date)
    - [Текущая дата и время](#1-текущая-дата-и-время)
