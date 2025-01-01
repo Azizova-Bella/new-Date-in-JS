@@ -54,6 +54,7 @@ console.log(dateFromString); // 2025-01-01T12:00:00.000Z
 const specificDate = new Date(2025, 0, 1, 12, 0, 0); // Месяцы начинаются с 0
 console.log(specificDate); // 2025-01-01T12:00:00.000Z
 ```
+![image](https://github.com/user-attachments/assets/c24721ae-f3d5-4f98-896b-58a4527b2d04)
 
 ---
 
