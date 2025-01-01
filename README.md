@@ -146,13 +146,6 @@ API `Temporal` (введенный в ECMA-262) решает многие про
 - Наносекундная точность.
 - Понятный и более надежный дизайн API.
 
-### Пример с `Temporal`
-```javascript
-const today = Temporal.Now.plainDateISO();
-const nextWeek = today.add({ days: 7 });
-console.log(nextWeek.toString()); // 2025-01-08
-```
-
 ---
 
 ## Заключение
